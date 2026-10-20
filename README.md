@@ -18,7 +18,7 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipuljr19&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
