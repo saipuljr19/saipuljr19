@@ -14,6 +14,17 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,js,html,css,tailwind,bootstrap,git,github,vscode,figma&perline=7" alt="Tech Stack" />
 </div>
 
+### 📊 Statistik GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipuljr19&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ## Hi there 👋
 
 <!--
