@@ -1,6 +1,6 @@
-<!-- Banner Gelombang Animasi Atas -->
+<!-- Banner Atas yang Stabil & Pasti Muncul -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Saiful%20Rasid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Saiful%20Rasid&fontSize=50&fontColor=ffffff&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Animasi Teks Mengetik (Typing SVG) -->
@@ -10,13 +10,13 @@
   </a>
 </div>
 
-<!-- Badge Pengunjung & Follow -->
+<!-- Badge Followers & Stars (Menggunakan Shields.io Resmi) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saipuljr19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/saipuljr19?tab=followers">
-    <img src="https://img.shields.io/github/followers/saipuljr19?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/saipuljr19?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/saipuljr19?label=Total%20Stars&style=for-the-badge&color=eab308" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/saipuljr19?label=Total%20Stars&style=for-the-badge&color=eab308&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=codeforces" alt="Status" />
 </div>
 
 <br />
@@ -40,62 +40,32 @@
 
 <div align="center">
   <h4>Bahasa Pemrograman & Framework</h4>
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,py,html,css,tailwind,bootstrap&perline=10" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,py,html,css,tailwind,bootstrap&perline=10" alt="Tech Stack 1" />
   
-  <h4>Database, AI & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,tensorflow,git,github,vscode,postman,figma,apple&perline=10" alt="Database and Tools" />
+  <h4>Database & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vscode,postman,figma&perline=8" alt="Tech Stack 2" />
 </div>
 
 <br />
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Statistik & Streak GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saipuljr19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saipuljr19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipuljr19&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=saipuljr19&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br />
 
 ---
 
-### 📊 Statistik & Performa GitHub
-
+<!-- Banner Gelombang Bawah -->
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=saipuljr19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Saiful GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipuljr19&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saipuljr19&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br />
-
----
-
-### 📈 Grafik Aktivitas Kontribusi
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saipuljr19&bg_color=0d1117&color=38bdf8&line=3b82f6&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
-
-<!-- 
-=======================================================================
-OPSIONAL: ANIMASI ULAR (Hapus tanda komentar ini setelah GitHub Actions snake.yml selesai dijalankan)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saipuljr19/saipuljr19/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saipuljr19/saipuljr19/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saipuljr19/saipuljr19/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-=======================================================================
--->
-
-<!-- Banner Gelombang Animasi Bawah -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
