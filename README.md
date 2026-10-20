@@ -3,17 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=%E2%9C%A8+Hi%2C+I'm+Saiful+Rasid+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Laravel+%E2%80%A2+Flutter+%E2%80%A2+Machine+Learning" alt="Header Typing" />
   </a>
-
-  <br />
-
-  <!-- Badge Status & Sosial -->
-  <a href="https://github.com/saipuljr19?tab=followers">
-    <img src="https://img.shields.io/github/followers/saipuljr19?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/saipuljr19?label=Total%20Stars&style=for-the-badge&color=eab308&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=codeforces" alt="Status" />
-</div>
-
+  
 <br />
 
 <!-- Animasi Teks Mengetik (Typing SVG) -->
