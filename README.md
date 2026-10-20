@@ -8,13 +8,9 @@
   </a>
 </div>
 
-### 🚀 Tech Stack & Tools
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,js,html,css,tailwind,bootstrap,git,github,vscode,figma&perline=7" alt="Tech Stack" />
 </div>
-
-### 📊 Statistik GitHub
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saipuljr19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -24,8 +20,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saipuljr19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-### 🐍 Grafik Kontribusi
 
 <div align="center">
   <picture>
