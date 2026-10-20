@@ -1,3 +1,13 @@
+<!-- Banner Gelombang Animasi -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Selamat%20Datang!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+
+<!-- Animasi Teks Mengetik (Typing SVG) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+PHP+%7C+Flutter+%7C+MySQL;Membangun+Solusi+Digital+yang+Efisien" alt="Typing SVG" />
+  </a>
+</div>
+
 ## Hi there 👋
 
 <!--
