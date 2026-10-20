@@ -8,6 +8,12 @@
   </a>
 </div>
 
+### 🚀 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,js,html,css,tailwind,bootstrap,git,github,vscode,figma&perline=7" alt="Tech Stack" />
+</div>
+
 ## Hi there 👋
 
 <!--
